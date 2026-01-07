@@ -1,0 +1,6 @@
+{
+  "state": "0",
+  "circuit": "I",
+  "measurement_model": "Pauli",
+  "shots": 2000
+}

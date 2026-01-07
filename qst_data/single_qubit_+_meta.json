@@ -1,0 +1,6 @@
+{
+  "state": "+",
+  "circuit": "H",
+  "measurement_model": "SIC",
+  "shots": 2000
+}
