@@ -30,7 +30,7 @@ Open_Project_Winter_2025/
 |-- notebooks/     # Consistently documented Assignment 1-5 notebooks
 |-- src/           # Modular Python scripts for training and generation
 |-- results/       # Performance plots (PNG) and LaTeX metric tables
-|-- README.md      # Primary project documentation
+|-- Machine-Learning-for-Quantum-State-Tomography\Final_report_Quantum_Tomography.pdf      # Primary project documentation
 ```
 
 ## 4. Performance Analysis and Results
